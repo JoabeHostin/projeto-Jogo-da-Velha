@@ -1,0 +1,42 @@
+body {
+    background-image: linear-gradient(to bottom, rgba(39, 89, 80, 1), rgba(65, 191, 178, 1));
+    background-attachment: fixed;
+}
+
+h1{
+    text-align: center;
+}
+
+input {
+    background-color: rgba(255, 255, 255, 0);
+    font-size: 6vw;
+    width: 6vw;
+    height: 6vw;
+    margin: 0;
+    color: rgb(7, 7, 7);
+}
+
+#jogador {
+    display: inline;
+}
+
+#reiniciar {
+    margin-top: 2%;
+    width: 10vw;
+    height: 6vw;
+    font-size: 1em;
+    color: black;
+}
+
+.linha{
+   background-color: green;
+}
+
+
+/* Color Theme Swatches in 
+.The-Black-and-Red-1-rgba { color: rgba(42, 140, 130, 1); }
+.The-Black-and-Red-2-rgba { color: rgba(65, 191, 178, 1); }
+.The-Black-and-Red-3-rgba { color: rgba(135, 242, 231, 1); }
+.The-Black-and-Red-4-rgba { color: rgba(39, 89, 80, 1); }
+.The-Black-and-Red-5-rgba { color: rgba(38, 0, 0, 1); }
+RGBA */
